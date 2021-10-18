@@ -25,6 +25,6 @@
     $register->address = "Purbalingga";
     $register->email = "wangsit@gmail.com";
 
-    ValidationUtil::validateReflection($register)
+    ValidationUtil::validateReflection($register);
 
 ?>
